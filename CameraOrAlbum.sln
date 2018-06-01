@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraOrAlbum", "CameraOrAlbum.csproj", "{DCE69685-AD46-4248-9E1B-C0FD2FE30E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraOrAlbum.Editor", "CameraOrAlbum.Editor.csproj", "{F06328B4-0387-B847-CD9D-7B28286F9439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE69685-AD46-4248-9E1B-C0FD2FE30E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE69685-AD46-4248-9E1B-C0FD2FE30E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE69685-AD46-4248-9E1B-C0FD2FE30E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE69685-AD46-4248-9E1B-C0FD2FE30E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06328B4-0387-B847-CD9D-7B28286F9439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06328B4-0387-B847-CD9D-7B28286F9439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06328B4-0387-B847-CD9D-7B28286F9439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06328B4-0387-B847-CD9D-7B28286F9439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
